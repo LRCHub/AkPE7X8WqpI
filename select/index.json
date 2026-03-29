@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "貴方解剖純愛歌～死ね～ - anatakaiboujunaiutashine",
+  "base_artist": "aimyon",
+  "createdAt": "2026-03-29T04:04:18.242937Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "貴方解剖純愛歌〜死ね〜",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_貴方解剖純愛歌〜死ね〜_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "貴方解剖純愛歌～死ね～ - anatakaiboujunaiutashine",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/02_貴方解剖純愛歌~死ね~_-_anatakaiboujunaiutashine_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "貴方解剖純愛歌～死ね～",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/03_貴方解剖純愛歌~死ね~_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "貴方解剖純愛歌～死ね～ (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/04_貴方解剖純愛歌~死ね~_(Live_in_阪神甲子園球場,_2022.11.05)_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "貴方解剖純愛歌～死ね～ (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/05_貴方解剖純愛歌~死ね~_(Live_in_阪神甲子園球場,_2022.11.05)_Aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "貴方解剖純愛歌～死ね～",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_貴方解剖純愛歌~死ね~_あいみょん.txt"
+    }
+  ]
+}
